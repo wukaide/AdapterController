@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="url">
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037235_3453.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037235_7476.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037235_9280.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037234_3539.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037234_6318.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037194_2965.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037193_1687.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037193_1286.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037192_8379.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037178_9374.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037177_1254.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037177_6203.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037152_6352.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037151_9565.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037151_7904.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037148_7104.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037129_8825.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037128_5291.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037128_3531.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037127_1085.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037095_7515.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037094_8001.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037093_7168.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201309/01/1378037091_4950.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949643_6410.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949642_6939.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949630_4505.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949630_4593.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949629_7309.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949629_8247.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949615_1986.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949614_8482.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949614_3743.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949614_4199.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949599_3416.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949599_5269.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949598_7858.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949598_9982.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949578_2770.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949578_8744.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949577_5210.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949577_1998.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949482_8813.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949481_6577.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949480_4490.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949455_6792.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949455_6345.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949442_4553.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949441_8987.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949441_5454.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949454_6367.jpg</item>
+        <item>http://img.my.csdn.net/uploads/201308/31/1377949442_4562.jpg</item>
+    </string-array>
+</resources>
