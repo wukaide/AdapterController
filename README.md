@@ -1,0 +1,3 @@
+# AdapterController
+快速构建Adapter
+适配器是当前开发必不可少的，一个好的适配器在开发中能提高效率，能减少代码量，并且复用性强，不管是什么项目只要导入mouseadapter 就能直接使用，mouseadapter 是一个扩展性极强的适配器，支持listview、gridview、recyclerView
